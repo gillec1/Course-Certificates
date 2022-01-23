@@ -13,4 +13,4 @@ This repository contains certificates for courses completed for Jupyter, Python,
 2. Linkedin Learning [Programming Foundations: Fundamentals](https://github.com/gillec1/Course-Certificates/blob/main/Programming%20Foundations%20-%20%20Fundamentals%20Certificate.ipynb)
 3. Linkedin Learning [Programming Foundations: Version Control with Git](https://github.com/gillec1/Course-Certificates/blob/main/Programming%20Foundations%20-%20Version%20Control%20with%20Git%20Certificate.ipynb)
 4. Linkedin Learning [Learning GitHub](https://github.com/gillec1/Course-Certificates/blob/main/Learning%20GitHub%20Certificate.ipynb)
-5. Linkedin Learning [Numpy Data Science Essential Training](
+5. Linkedin Learning [Numpy Data Science Essential Training](https://github.com/gillec1/Course-Certificates/blob/main/Numpy%20Data%20Science%20Essential%20Training%20Certificate.ipynb)
